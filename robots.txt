@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tonyaquilino.github.io/snippets-psihfx/sitemap.xml
